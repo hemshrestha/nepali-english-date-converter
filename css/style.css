@@ -1,0 +1,37 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.navbar-inverse{
+    background-color: #448b9f;
+    color:#ffffff;
+    border-bottom-color: #c9c9c9;
+}
+.navbar-header a{
+    color:#ffffff;
+}
+.navbar-inverse .navbar-brand {
+    color:#ffffff;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color:#ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus{
+    background-color: #3b798a;
+    color: #FFFFFF;
+}
+.form-inline .form-group{
+    margin-right:10px;
+    margin-left:5px;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
