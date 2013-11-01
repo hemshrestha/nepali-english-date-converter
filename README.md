@@ -1,4 +1,4 @@
-nepali-english-date-converter
+Nepali English Date Converter
 =============================
 
 Nepali - English Date Converter
